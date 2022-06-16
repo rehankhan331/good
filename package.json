@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node index.js"
   },
-  "author": "NiNja_Rehan",
+  "author": "NiNJa_Rehan",
   "license": "ISC",
   "dependencies": {
     "config": "^3.3.3",
